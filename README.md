@@ -1,6 +1,6 @@
 <img align="left" width="500" src="https://github.com/kookoobound/kookoobound/blob/3d15971dd6a51d5fa3eb1fa61a166555759d08d9/Untitled94_20260530122411.webp">
 
-<img align="center" width="400" src="https://github.com/kookoobound/kookoobound/blob/3d15971dd6a51d5fa3eb1fa61a166555759d08d9/20250101_215743.webp">
+<img align="center" width="200" src="https://github.com/kookoobound/kookoobound/blob/3d15971dd6a51d5fa3eb1fa61a166555759d08d9/20250101_215743.webp">
 
 <div align="center">
   
